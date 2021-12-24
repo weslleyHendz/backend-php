@@ -3,11 +3,11 @@
 namespace Moovin\Job\Backend;
 
 /**
- * Classe de exemplo
+ * Classe que trata as contas correntes
  *
  * @author Weslley Hendz <hendzweslley@gmail.com>
  */
-class Exemplo
+class checkingAccount 
 {
     public function exemplo()
     {
